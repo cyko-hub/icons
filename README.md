@@ -1,4 +1,4 @@
-# [CYKOMANIACS](https://github.com/cykomaniacs) FONTS
+# [CYKOMANIACS](https://github.com/cykomaniacs) ICONS
 
 THE **CYKO**LOGICAL ICON PACK\
 <sup>A free project, distributed under the terms of the [**MIT** License](LICENSE).</sup>
