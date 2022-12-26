@@ -4,7 +4,7 @@
    height="64"
    version="1"
    id="svg4625"
-   sodipodi:docname="cyko.papirus--preferences.bnw.w.svg"
+   sodipodi:docname="cyko.preferences.bnw.w.svg"
    inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    inkscape:export-filename="cyko.papirus--preferences.bnw.w.b.png"
    inkscape:export-xdpi="768"
@@ -12,7 +12,10 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs4629">
     <linearGradient
@@ -71,8 +74,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="11.313709"
-     inkscape:cx="15.114407"
-     inkscape:cy="34.692425"
+     inkscape:cx="7.3362325"
+     inkscape:cy="34.780813"
      inkscape:window-width="1471"
      inkscape:window-height="1062"
      inkscape:window-x="578"
@@ -395,4 +398,19 @@
       </g>
     </g>
   </g>
+  <metadata
+     id="metadata669">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>eggheadedmonkey</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="https://github.com/cykomaniacs/org/blob/af1bb47572cb1a5f5e5fc628d5ca9d68fc5b6194/LICENSE" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
 </svg>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg298"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="nook.svg.2022_12_26_01_00_19.0.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview300"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="11.313709"
+     inkscape:cx="22.362252"
+     inkscape:cy="32.571106"
+     inkscape:window-width="1625"
+     inkscape:window-height="1230"
+     inkscape:window-x="525"
+     inkscape:window-y="90"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs295" />
+  <g
+     inkscape:label="Layer 1"
+     id="layer1">
+    <circle
+       style="display:none;opacity:1;fill:#ffd453;fill-opacity:1;stroke-width:2.017;stroke-dasharray:2.017, 2.017"
+       id="path1029"
+       cx="32"
+       cy="32"
+       r="29" />
+    <path
+       id="path341"
+       style="display:none;opacity:1;fill:#ffd453;fill-opacity:1;stroke-width:2.0351;stroke-dasharray:2.0351, 2.0351"
+       d="M 32,3 C 15.983774,3 3,15.983774 3,32 c 0,16.016226 12.983774,29 29,29 4.00406,0 7.25,-3.24594 7.25,-7.25 0,-4.00406 -3.24594,-7.25 -7.25,-7.25 L 17.5,32 32,17.5 46.5,32 c 0,4.004056 3.245944,7.25 7.25,7.25 C 57.754056,39.25 61,36.004056 61,32 61,15.983774 48.016226,3 32,3 Z"
+       inkscape:label="main.a" />
+    <path
+       id="path1078"
+       style="display:inline;opacity:1;fill:#ffea00;fill-opacity:1;stroke-width:2.017;stroke-dasharray:2.017, 2.017"
+       d="M 32 3 C 15.983806 3 3 15.983806 3 32 C 3 48.016194 15.983806 61 32 61 C 36.004052 61 39.25 57.754052 39.25 53.75 C 39.25 49.745948 36.004052 46.5 32 46.5 C 23.991887 46.5 17.5 40.008113 17.5 32 C 17.5 23.991887 23.991887 17.5 32 17.5 C 40.008113 17.5 46.5 23.991887 46.5 32 C 46.5 36.004048 49.745952 39.25 53.75 39.25 C 57.754048 39.25 61 36.004048 61 32 C 61 15.983806 48.016194 3 32 3 z " />
+  </g>
+  <metadata
+     id="metadata421">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>eggheadedmonkey</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="https://github.com/cykomaniacs/org/blob/af1bb47572cb1a5f5e5fc628d5ca9d68fc5b6194/LICENSE" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
