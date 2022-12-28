@@ -1,3 +1,6 @@
+# ignore git files by default (except .gitkeep)
 **/*/.git*
+!**/*/.gitkeep
+
 # windows folder preferences
 **/*/desktop.ini
