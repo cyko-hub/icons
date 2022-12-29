@@ -16,11 +16,22 @@ Icons are created whenever one is needed. Simple 'nuff.
 
 ## PREVIEWS
 
-![bnw.b.c](https://github.com/cyko-hub/icons/blob/76fdcb8573bb9438c12ebd71a60277409c7b24bc/web/cyko.preferences.bnw.b.circle.svg)
-![bnw.b.r](https://github.com/cyko-hub/icons/blob/76fdcb8573bb9438c12ebd71a60277409c7b24bc/web/cyko.preferences.bnw.b.rect.svg)
-![bnw.w.r](https://github.com/cyko-hub/icons/blob/76fdcb8573bb9438c12ebd71a60277409c7b24bc/web/cyko.preferences.bnw.w.rect.svg)
-![bnw.w.c](https://github.com/cyko-hub/icons/blob/76fdcb8573bb9438c12ebd71a60277409c7b24bc/web/cyko.preferences.bnw.w.circle.svg)
+![512](https://github.com/cyko-hub/icons/blob/4d91d19b82d037c90844c498278ee80bbf2c2c9b/web/cyko.preferences.bnw.b.circle.svg)
+![256](https://github.com/cyko-hub/icons/blob/4d91d19b82d037c90844c498278ee80bbf2c2c9b/web/cyko.preferences.bnw.b.circle.256.png)
+![128](https://github.com/cyko-hub/icons/blob/4d91d19b82d037c90844c498278ee80bbf2c2c9b/web/cyko.preferences.bnw.b.circle.128.png)
+
+![512](https://github.com/cyko-hub/icons/blob/4d91d19b82d037c90844c498278ee80bbf2c2c9b/web/cyko.preferences.bnw.w.circle.svg)
+![256](https://github.com/cyko-hub/icons/blob/4d91d19b82d037c90844c498278ee80bbf2c2c9b/web/cyko.preferences.bnw.w.circle.256.png)
+![128](https://github.com/cyko-hub/icons/blob/4d91d19b82d037c90844c498278ee80bbf2c2c9b/web/cyko.preferences.bnw.w.circle.128.png)
+
+![512](https://github.com/cyko-hub/icons/blob/4d91d19b82d037c90844c498278ee80bbf2c2c9b/web/cyko.preferences.bnw.w.rect.svg)
+![256](https://github.com/cyko-hub/icons/blob/4d91d19b82d037c90844c498278ee80bbf2c2c9b/web/cyko.preferences.bnw.w.rect.256.png)
+![128](https://github.com/cyko-hub/icons/blob/4d91d19b82d037c90844c498278ee80bbf2c2c9b/web/cyko.preferences.bnw.w.rect.128.png)
+
+![512](https://github.com/cyko-hub/icons/blob/4d91d19b82d037c90844c498278ee80bbf2c2c9b/web/cyko.preferences.bnw.b.rect.svg)
+![256](https://github.com/cyko-hub/icons/blob/4d91d19b82d037c90844c498278ee80bbf2c2c9b/web/cyko.preferences.bnw.b.rect.256.png)
+![128](https://github.com/cyko-hub/icons/blob/4d91d19b82d037c90844c498278ee80bbf2c2c9b/web/cyko.preferences.bnw.b.rect.128.png)
 
 ## UPDATED
 
-<sub><kbd>2022</kbd> <kbd>12</kbd> <kbd>28</kbd> by [**eggheadedmonkey**](https://github.com/eggheadedmonkey)</sub>
+<sub><kbd>2022</kbd> <kbd>12</kbd> <kbd>29</kbd> by [**eggheadedmonkey**](https://github.com/eggheadedmonkey)</sub>
