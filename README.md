@@ -16,7 +16,10 @@ Icons are created whenever one is needed. Simple 'nuff.
 
 ## PREVIEWS
 
-![bnw.b](https://github.com/cyko-hub/icons/blob/24143341b617cc9a411b55247b9cde2b025934dc/svg/512/general/cyko.preferences.bnw.b.svg)
+![bnw.b.c](https://github.com/cyko-hub/icons/blob/76fdcb8573bb9438c12ebd71a60277409c7b24bc/web/cyko.preferences.bnw.b.circle.svg)
+![bnw.b.r](https://github.com/cyko-hub/icons/blob/76fdcb8573bb9438c12ebd71a60277409c7b24bc/web/cyko.preferences.bnw.b.rect.svg)
+![bnw.w.r](https://github.com/cyko-hub/icons/blob/76fdcb8573bb9438c12ebd71a60277409c7b24bc/web/cyko.preferences.bnw.w.rect.svg)
+![bnw.w.c](https://github.com/cyko-hub/icons/blob/76fdcb8573bb9438c12ebd71a60277409c7b24bc/web/cyko.preferences.bnw.w.circle.svg)
 
 ## UPDATED
 
