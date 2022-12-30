@@ -9,7 +9,7 @@
    id="svg5"
    inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    sodipodi:docname="cyko.preferences.bnw.b.rect.svg"
-   inkscape:export-filename="cyko.preferences.bnw.b.rect.png"
+   inkscape:export-filename="cyko.preferences.bnw.b.circle.512.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -30,12 +30,12 @@
      inkscape:deskcolor="#e5e5e5"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="2"
-     inkscape:cx="144.5"
-     inkscape:cy="281.5"
-     inkscape:window-width="2072"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="148.49242"
+     inkscape:cy="194.45436"
+     inkscape:window-width="1833"
      inkscape:window-height="1277"
-     inkscape:window-x="171"
+     inkscape:window-x="410"
      inkscape:window-y="54"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer4" />
@@ -246,7 +246,7 @@
       <g
          id="g5087"
          inkscape:label="handle:rect:shine"
-         style="display:inline;opacity:0.4;fill:#ffffff">
+         style="display:inline;opacity:0.6;fill:#ffffff">
         <path
            id="rect5206"
            style="display:inline;opacity:1;fill:#ffffff;fill-rule:evenodd;stroke-width:1.64687;stroke-dasharray:1.64687, 1.64687"
@@ -328,7 +328,7 @@
          id="g745"
          inkscape:label="handle:circle:shine"
          transform="translate(104)"
-         style="opacity:0.4;fill:#ffffff;fill-opacity:1">
+         style="display:inline;opacity:0.6;fill:#ffffff;fill-opacity:1">
         <path
            id="path611"
            style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:5.689;stroke-miterlimit:0;paint-order:stroke markers fill"
