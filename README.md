@@ -10,27 +10,44 @@ Icons are created whenever one is needed. Simple 'nuff.
 
 ## FORMATS
 
-- `svg`
+- [`svg`](#svg)
 - `ico`
-- `png`
+- [`png`](#png)
 
 ## PREVIEWS
 
-![512](https://github.com/cyko-hub/icons/blob/4d91d19b82d037c90844c498278ee80bbf2c2c9b/web/cyko.preferences.bnw.b.circle.svg)
-![256](https://github.com/cyko-hub/icons/blob/4d91d19b82d037c90844c498278ee80bbf2c2c9b/web/cyko.preferences.bnw.b.circle.256.png)
-![128](https://github.com/cyko-hub/icons/blob/4d91d19b82d037c90844c498278ee80bbf2c2c9b/web/cyko.preferences.bnw.b.circle.128.png)
+### PNG
 
-![512](https://github.com/cyko-hub/icons/blob/4d91d19b82d037c90844c498278ee80bbf2c2c9b/web/cyko.preferences.bnw.w.circle.svg)
-![256](https://github.com/cyko-hub/icons/blob/4d91d19b82d037c90844c498278ee80bbf2c2c9b/web/cyko.preferences.bnw.w.circle.256.png)
-![128](https://github.com/cyko-hub/icons/blob/4d91d19b82d037c90844c498278ee80bbf2c2c9b/web/cyko.preferences.bnw.w.circle.128.png)
+```
+256 x 256
+128 x 128
+ 64 x 64
+```
 
-![512](https://github.com/cyko-hub/icons/blob/4d91d19b82d037c90844c498278ee80bbf2c2c9b/web/cyko.preferences.bnw.w.rect.svg)
-![256](https://github.com/cyko-hub/icons/blob/4d91d19b82d037c90844c498278ee80bbf2c2c9b/web/cyko.preferences.bnw.w.rect.256.png)
-![128](https://github.com/cyko-hub/icons/blob/4d91d19b82d037c90844c498278ee80bbf2c2c9b/web/cyko.preferences.bnw.w.rect.128.png)
+![256](https://github.com/cyko-hub/icons/blob/e3f3d8c255636e5caaae489a9a8430d5d2be999c/web/cyko.preferences.bnw.b.circle.256.png)
+![128](https://github.com/cyko-hub/icons/blob/e3f3d8c255636e5caaae489a9a8430d5d2be999c/web/cyko.preferences.bnw.b.circle.128.png)
+![064](https://github.com/cyko-hub/icons/blob/e3f3d8c255636e5caaae489a9a8430d5d2be999c/web/cyko.preferences.bnw.b.circle.064.png)
 
-![512](https://github.com/cyko-hub/icons/blob/4d91d19b82d037c90844c498278ee80bbf2c2c9b/web/cyko.preferences.bnw.b.rect.svg)
-![256](https://github.com/cyko-hub/icons/blob/4d91d19b82d037c90844c498278ee80bbf2c2c9b/web/cyko.preferences.bnw.b.rect.256.png)
-![128](https://github.com/cyko-hub/icons/blob/4d91d19b82d037c90844c498278ee80bbf2c2c9b/web/cyko.preferences.bnw.b.rect.128.png)
+![256](https://github.com/cyko-hub/icons/blob/e3f3d8c255636e5caaae489a9a8430d5d2be999c/web/cyko.preferences.bnw.w.circle.256.png)
+![128](https://github.com/cyko-hub/icons/blob/e3f3d8c255636e5caaae489a9a8430d5d2be999c/web/cyko.preferences.bnw.w.circle.128.png)
+![064](https://github.com/cyko-hub/icons/blob/e3f3d8c255636e5caaae489a9a8430d5d2be999c/web/cyko.preferences.bnw.w.circle.064.png)
+
+![256](https://github.com/cyko-hub/icons/blob/e3f3d8c255636e5caaae489a9a8430d5d2be999c/web/cyko.preferences.bnw.w.rect.256.png)
+![128](https://github.com/cyko-hub/icons/blob/e3f3d8c255636e5caaae489a9a8430d5d2be999c/web/cyko.preferences.bnw.w.rect.128.png)
+![064](https://github.com/cyko-hub/icons/blob/e3f3d8c255636e5caaae489a9a8430d5d2be999c/web/cyko.preferences.bnw.w.rect.064.png)
+
+![256](https://github.com/cyko-hub/icons/blob/e3f3d8c255636e5caaae489a9a8430d5d2be999c/web/cyko.preferences.bnw.b.rect.256.png)
+![128](https://github.com/cyko-hub/icons/blob/e3f3d8c255636e5caaae489a9a8430d5d2be999c/web/cyko.preferences.bnw.b.rect.128.png)
+![064](https://github.com/cyko-hub/icons/blob/e3f3d8c255636e5caaae489a9a8430d5d2be999c/web/cyko.preferences.bnw.b.rect.064.png)
+
+### SVG
+
+```
+512 x 512
+```
+
+![SVG](https://github.com/cyko-hub/icons/blob/e3f3d8c255636e5caaae489a9a8430d5d2be999c/web/cyko.preferences.bnw.b.circle.svg)
+![SVG](https://github.com/cyko-hub/icons/blob/e3f3d8c255636e5caaae489a9a8430d5d2be999c/web/cyko.preferences.bnw.w.rect.svg)
 
 ## UPDATED
 
