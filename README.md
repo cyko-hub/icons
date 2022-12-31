@@ -16,6 +16,9 @@ Icons are created whenever one is needed. Simple 'nuff.
 
 ## PREVIEWS
 
+General *preferences* icons and the **Nook** calendar app.\
+<sup>Optimization of each size will be done at a later stage.</sup>
+
 ### PNG
 
 ```
@@ -33,6 +36,10 @@ Icons are created whenever one is needed. Simple 'nuff.
 ![128](https://github.com/cyko-hub/icons/blob/e3f3d8c255636e5caaae489a9a8430d5d2be999c/web/cyko.preferences.bnw.w.circle.128.png)
 ![064](https://github.com/cyko-hub/icons/blob/e3f3d8c255636e5caaae489a9a8430d5d2be999c/web/cyko.preferences.bnw.w.circle.064.png)
 ![032](https://github.com/cyko-hub/icons/blob/7e1a426ba64c84a8b9a7dda6f4c9f10ddebcef67/web/cyko.preferences.bnw.w.circle.032.png)\
+![256](https://github.com/cyko-hub/icons/blob/1be078ff8023d0d38a8fda96db92b5a723146085/web/cyko.app.nook.256.png)
+![128](https://github.com/cyko-hub/icons/blob/1be078ff8023d0d38a8fda96db92b5a723146085/web/cyko.app.nook.128.png)
+![064](https://github.com/cyko-hub/icons/blob/1be078ff8023d0d38a8fda96db92b5a723146085/web/cyko.app.nook.064.png)
+![032](https://github.com/cyko-hub/icons/blob/1be078ff8023d0d38a8fda96db92b5a723146085/web/cyko.app.nook.032.png)\
 ![256](https://github.com/cyko-hub/icons/blob/e3f3d8c255636e5caaae489a9a8430d5d2be999c/web/cyko.preferences.bnw.w.rect.256.png)
 ![128](https://github.com/cyko-hub/icons/blob/e3f3d8c255636e5caaae489a9a8430d5d2be999c/web/cyko.preferences.bnw.w.rect.128.png)
 ![064](https://github.com/cyko-hub/icons/blob/e3f3d8c255636e5caaae489a9a8430d5d2be999c/web/cyko.preferences.bnw.w.rect.064.png)
@@ -49,8 +56,9 @@ Icons are created whenever one is needed. Simple 'nuff.
 ```
 
 ![SVG](https://github.com/cyko-hub/icons/blob/e3f3d8c255636e5caaae489a9a8430d5d2be999c/web/cyko.preferences.bnw.b.circle.svg)
+![SVG](https://github.com/cyko-hub/icons/blob/1be078ff8023d0d38a8fda96db92b5a723146085/web/cyko.app.nook.svg)
 ![SVG](https://github.com/cyko-hub/icons/blob/e3f3d8c255636e5caaae489a9a8430d5d2be999c/web/cyko.preferences.bnw.w.rect.svg)
 
 ## UPDATED
 
-<sub><kbd>2022</kbd> <kbd>12</kbd> <kbd>29</kbd> by [**eggheadedmonkey**](https://github.com/eggheadedmonkey)</sub>
+<sub><kbd>2022</kbd> <kbd>12</kbd> <kbd>31</kbd> by [**eggheadedmonkey**](https://github.com/eggheadedmonkey)</sub>
