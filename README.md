@@ -1,12 +1,18 @@
 # [CYKOMANIACS](https://github.com/cykomaniacs) ICONS
 
-THE **CYKO**LOGICAL ICON PACK\
-<sup>A free project, distributed under the terms of the [**MIT** License](LICENSE).</sup>
+THE **CYKO**LOGICAL ICON COLLECTION\
+<sup>Free stuff, distributed under the terms of the [**MIT** License](LICENSE).</sup>
 
 ## INTRODUCTION
 
-This is a collection of icons, not a preconfigured theme of any sort.\
-Icons are created whenever one is needed. Simple 'nuff.
+The word *theme* can be confusing when used in contexts such as this.\
+This is **not** a configuration of any sort.\
+Just a bunch of *thematic* drawings that may be used as icons.
+
+> *There is no plan of what is to come at this stage.*\
+> *Icons are added whenever needed.*
+
+For now, take a look at the [previews](#previews).
 
 ## FORMATS
 
@@ -16,7 +22,7 @@ Icons are created whenever one is needed. Simple 'nuff.
 
 ## PREVIEWS
 
-General *preferences* icons and the **Nook** calendar app.\
+Generic *preferences* and the **Nook** calendar app.\
 <sup>Optimization of each size will be done at a later stage.</sup>
 
 ### PNG
