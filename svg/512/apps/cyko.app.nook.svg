@@ -9,9 +9,9 @@
    id="svg5"
    inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    sodipodi:docname="cyko.app.nook.svg"
-   inkscape:export-filename="cyko.app.nook.512.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96"
+   inkscape:export-filename="..\..\..\web\cyko.app.nook-rect.16.webp"
+   inkscape:export-xdpi="3"
+   inkscape:export-ydpi="3"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -38,7 +38,7 @@
      inkscape:window-x="737"
      inkscape:window-y="212"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg5" />
+     inkscape:current-layer="layer15" />
   <defs
      id="defs2">
     <linearGradient
@@ -81,9 +81,8 @@
        inkscape:groupmode="layer"
        id="layer10"
        inkscape:label="ball"
-       style="display:inline"
-       inkscape:highlight-color="#4d4d4d"
-       sodipodi:insensitive="true">
+       style="display:none"
+       inkscape:highlight-color="#4d4d4d">
       <circle
          style="display:inline;opacity:0.25;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.017;stroke-dasharray:2.017, 2.017"
          id="circle2534"
@@ -110,8 +109,7 @@
        inkscape:groupmode="layer"
        id="layer1"
        inkscape:highlight-color="#4d4d4d"
-       style="display:none"
-       sodipodi:insensitive="true">
+       style="display:inline">
       <rect
          style="display:inline;opacity:0.25;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.94392;stroke-dasharray:1.94392, 1.94392"
          id="rect2750"
@@ -214,8 +212,7 @@
        id="layer7"
        inkscape:label="a:84"
        style="display:inline"
-       inkscape:highlight-color="#7ae545"
-       sodipodi:insensitive="true">
+       inkscape:highlight-color="#7ae545">
       <g
          id="g1662"
          inkscape:label="o"
@@ -347,13 +344,12 @@
        inkscape:groupmode="layer"
        id="layer12"
        inkscape:label="b:78"
-       style="display:none"
-       inkscape:highlight-color="#7ae545"
-       sodipodi:insensitive="true">
+       style="display:inline"
+       inkscape:highlight-color="#7ae545">
       <g
          id="g4997"
          inkscape:label="o"
-         style="display:none">
+         style="display:inline">
         <path
            id="path4992"
            style="display:inline;opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.96678;stroke-dasharray:1.96678, 1.96678"
@@ -368,7 +364,7 @@
       <g
          id="g5000"
          inkscape:label="c"
-         style="display:none">
+         style="display:inline">
         <g
            id="g5164"
            inkscape:label="c:shade"
@@ -397,7 +393,7 @@
        inkscape:groupmode="layer"
        id="g4213"
        inkscape:label="b:84"
-       style="display:inline"
+       style="display:none"
        inkscape:highlight-color="#e54545">
       <g
          id="g5011"
@@ -444,7 +440,7 @@
        inkscape:groupmode="layer"
        id="layer14"
        inkscape:label="b:common:plus"
-       style="display:inline"
+       style="display:none"
        inkscape:highlight-color="#9545e5">
       <path
          style="display:inline;opacity:0.4;fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:2.017;stroke-dasharray:2.017, 2.017"
