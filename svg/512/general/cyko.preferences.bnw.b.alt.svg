@@ -172,7 +172,7 @@
     <g
        id="g4998"
        inkscape:label="b( rect )"
-       style="display:none">
+       style="display:inline">
       <g
          id="g5012"
          inkscape:label="handle:b:shade"
@@ -270,7 +270,7 @@
     <g
        id="g3763"
        inkscape:label="a( ball )"
-       style="display:inline;opacity:1">
+       style="display:none;opacity:1">
       <g
          id="g605"
          inkscape:label="handle:a:shade"

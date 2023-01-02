@@ -8,8 +8,8 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
-   sodipodi:docname="cyko.preferences.bnw.w.circle.svg"
-   inkscape:export-filename="cyko.preferences.bnw.w.rect.512.png"
+   sodipodi:docname="cyko.preferences.bnw.w.svg"
+   inkscape:export-filename="..\..\..\web\cyko.preferences.bnw.w.512.webp"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -31,14 +31,14 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="1.6089675"
-     inkscape:cx="214.73398"
-     inkscape:cy="246.74209"
-     inkscape:window-width="1511"
+     inkscape:cx="252.02498"
+     inkscape:cy="247.3636"
+     inkscape:window-width="1631"
      inkscape:window-height="1277"
-     inkscape:window-x="660"
+     inkscape:window-x="540"
      inkscape:window-y="58"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer4"
      showguides="false" />
   <defs
      id="defs2">
@@ -172,7 +172,7 @@
      style="display:inline;opacity:1">
     <g
        id="g3003"
-       inkscape:label="handle &lt;rect&gt;"
+       inkscape:label="b( rect )"
        style="display:none;opacity:1">
       <g
          id="g2989"
@@ -188,7 +188,7 @@
            y="176"
            rx="12"
            ry="12"
-           inkscape:label="handle:1:rect:shape" />
+           inkscape:label="handle:1:b:shape" />
         <rect
            style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:2.017;stroke-dasharray:2.017, 2.017"
            id="rect2980"
@@ -198,7 +198,7 @@
            y="272"
            rx="12"
            ry="12"
-           inkscape:label="handle:2:rect:shape" />
+           inkscape:label="handle:2:b:shape" />
         <rect
            style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:2.017;stroke-dasharray:2.017, 2.017"
            id="rect2977"
@@ -208,7 +208,7 @@
            y="176"
            rx="12"
            ry="12"
-           inkscape:label="handle:3:rect:shape" />
+           inkscape:label="handle:3:b:shape" />
       </g>
       <g
          id="g2932"
@@ -223,7 +223,7 @@
            y="176"
            rx="12"
            ry="12"
-           inkscape:label="handle:1:rect:shape" />
+           inkscape:label="handle:1:b:shape" />
         <rect
            style="display:inline;opacity:1;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke-width:2.017;stroke-dasharray:2.017, 2.017"
            id="rect2692-2"
@@ -233,7 +233,7 @@
            y="272"
            rx="12"
            ry="12"
-           inkscape:label="handle:2:rect:shape" />
+           inkscape:label="handle:2:b:shape" />
         <rect
            style="display:inline;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke-width:2.017;stroke-dasharray:2.017, 2.017"
            id="rect2692-3"
@@ -243,39 +243,39 @@
            y="176"
            rx="12"
            ry="12"
-           inkscape:label="handle:3:rect:shape" />
+           inkscape:label="handle:3:b:shape" />
       </g>
       <g
          id="g3056"
-         inkscape:label="handle:rect:shine"
+         inkscape:label="handle:b:shine"
          style="opacity:0.1;fill:#ffffff;fill-opacity:1">
         <path
            id="rect3044"
            style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:2.017;stroke-dasharray:2.017, 2.017"
-           inkscape:label="handle:1:rect:shape"
+           inkscape:label="handle:1:b:shape"
            d="m 116,176 h 72 c 6.648,0 12,5.352 12,12 v 8 c 0,0 0,-12 -12,-12 h -72 c -12,0 -12,12 -12,12 v -8 c 0,-6.648 5.352,-12 12,-12 z"
            sodipodi:nodetypes="ssscsscss" />
         <path
            id="rect3047"
            style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:2.017;stroke-dasharray:2.017, 2.017"
-           inkscape:label="handle:2:rect:shape"
+           inkscape:label="handle:2:b:shape"
            d="m 220,272 h 72 c 6.648,0 12,5.352 12,12 v 8 c 0,0 0,-12 -12,-12 h -72 c -12,0 -12,12 -12,12 v -8 c 0,-6.648 5.352,-12 12,-12 z"
            sodipodi:nodetypes="ssscsscss" />
         <path
            id="rect3050"
            style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:2.017;stroke-dasharray:2.017, 2.017"
-           inkscape:label="handle:3:rect:shape"
+           inkscape:label="handle:3:b:shape"
            d="m 324,176 h 72 c 6.648,0 12,5.352 12,12 v 8 c 0,0 0,-12 -12,-12 h -72 c -12,0 -12,12 -12,12 v -8 c 0,-6.648 5.352,-12 12,-12 z"
            sodipodi:nodetypes="ssscsscss" />
       </g>
     </g>
     <g
        id="g2599"
-       inkscape:label="handle &lt;circle&gt;"
+       inkscape:label="a( ball )"
        style="display:inline;opacity:1">
       <g
          id="g605"
-         inkscape:label="shade"
+         inkscape:label="handle:shade"
          style="opacity:0.2;fill:#000000;fill-opacity:1">
         <circle
            style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.689;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
@@ -283,25 +283,25 @@
            cx="152"
            cy="216.00008"
            r="48"
-           inkscape:label="handle:1:shade" />
+           inkscape:label="handle:1:a:shade" />
         <circle
            style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.689;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
            id="circle545"
            cx="256"
            cy="312"
            r="48"
-           inkscape:label="handle:2:shade" />
+           inkscape:label="handle:2:a:shade" />
         <circle
            style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.689;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
            id="circle739"
            cx="360"
            cy="216"
            r="48"
-           inkscape:label="handle:3:shade" />
+           inkscape:label="handle:3:a:shade" />
       </g>
       <g
          id="g613"
-         inkscape:label="shape"
+         inkscape:label="handle:shape"
          transform="translate(-104)"
          style="fill:#808080;fill-opacity:1">
         <circle
@@ -310,43 +310,43 @@
            cx="256"
            cy="208"
            r="48"
-           inkscape:label="handle:1:shape" />
+           inkscape:label="handle:1:a:shape" />
         <circle
            style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.689;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
            id="path8190"
            cx="360"
            cy="304"
            r="48"
-           inkscape:label="handle:2:shape" />
+           inkscape:label="handle:2:a:shape" />
         <circle
            style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.689;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
            id="circle741"
            cx="464"
            cy="208"
            r="48"
-           inkscape:label="handle:3:shape" />
+           inkscape:label="handle:3:a:shape" />
       </g>
       <g
          id="g745"
-         inkscape:label="shine"
+         inkscape:label="handle:a:shine"
          transform="translate(104)"
          style="opacity:0.15;fill:#ffffff;fill-opacity:1">
         <path
            id="path611"
            style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:5.689;stroke-miterlimit:0;paint-order:stroke markers fill"
-           inkscape:label="handle:1:shine"
+           inkscape:label="handle:1:a:shine"
            d="m 96,207.99992 c 0,0 0,-40 -48,-40 -48,0 -48,40 -48,40 0,-26.50967 21.49033,-48 48,-48 26.50967,0 48,21.49033 48,48 z"
            sodipodi:nodetypes="cscsc" />
         <path
            id="circle262"
            style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:5.689;stroke-miterlimit:0;paint-order:stroke markers fill"
-           inkscape:label="handle:2:shine"
+           inkscape:label="handle:2:a:shine"
            d="m 200,304 c 0,0 0,-40 -48,-40 -48,0 -48,40 -48,40 0,-26.50967 21.49033,-48 48,-48 26.50967,0 48,21.49033 48,48 z"
            sodipodi:nodetypes="cscsc" />
         <path
            id="path743"
            style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:5.689;stroke-miterlimit:0;paint-order:stroke markers fill"
-           inkscape:label="handle:3:shine"
+           inkscape:label="handle:3:a:shine"
            d="m 304,208 c 0,0 0,-40 -48,-40 -48,0 -48,40 -48,40 0,-26.50967 21.49033,-48 48,-48 26.50967,0 48,21.49033 48,48 z"
            sodipodi:nodetypes="cscsc" />
       </g>

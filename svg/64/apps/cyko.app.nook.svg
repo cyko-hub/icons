@@ -31,14 +31,14 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="1.4197378"
-     inkscape:cx="231.73292"
-     inkscape:cy="239.48083"
+     inkscape:cx="146.50593"
+     inkscape:cy="239.48084"
      inkscape:window-width="1714"
      inkscape:window-height="1089"
      inkscape:window-x="214"
      inkscape:window-y="123"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer15" />
+     inkscape:current-layer="layer3" />
   <defs
      id="defs2">
     <linearGradient
@@ -143,7 +143,7 @@
      id="layer16"
      inkscape:label="a( 65 )"
      inkscape:highlight-color="#808080"
-     style="display:inline">
+     style="display:none">
     <g
        inkscape:groupmode="layer"
        id="layer4"
@@ -325,7 +325,7 @@
      id="layer15"
      inkscape:label="b( 64 )"
      inkscape:highlight-color="#808080"
-     style="display:none">
+     style="display:inline">
     <g
        inkscape:groupmode="layer"
        id="layer13"
