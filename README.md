@@ -16,16 +16,16 @@ For now, take a look at the [previews](#previews).
 
 ## FORMATS
 
-- [`svg`](#svg)
-- `ico`
-- [`png`](#png)
+- [`svg`](#svg) sources
+- [`png`](#webp) todo
+- `ico` todo
 
 ## PREVIEWS
 
 Generic *preferences* and the **Nook** calendar app.\
 <sup>Optimization of each size will be done at a later stage.</sup>
 
-### PNG
+### WEBP
 
 ```
 256 x 256
@@ -34,26 +34,26 @@ Generic *preferences* and the **Nook** calendar app.\
  32 x  32
 ```
 
-![256](https://github.com/cyko-hub/icons/blob/e3f3d8c255636e5caaae489a9a8430d5d2be999c/web/cyko.preferences.bnw.b.circle.256.png)
-![128](https://github.com/cyko-hub/icons/blob/e3f3d8c255636e5caaae489a9a8430d5d2be999c/web/cyko.preferences.bnw.b.circle.128.png)
-![064](https://github.com/cyko-hub/icons/blob/e3f3d8c255636e5caaae489a9a8430d5d2be999c/web/cyko.preferences.bnw.b.circle.064.png)
-![032](https://github.com/cyko-hub/icons/blob/7e1a426ba64c84a8b9a7dda6f4c9f10ddebcef67/web/cyko.preferences.bnw.b.circle.032.png)\
-![256](https://github.com/cyko-hub/icons/blob/e3f3d8c255636e5caaae489a9a8430d5d2be999c/web/cyko.preferences.bnw.w.circle.256.png)
-![128](https://github.com/cyko-hub/icons/blob/e3f3d8c255636e5caaae489a9a8430d5d2be999c/web/cyko.preferences.bnw.w.circle.128.png)
-![064](https://github.com/cyko-hub/icons/blob/e3f3d8c255636e5caaae489a9a8430d5d2be999c/web/cyko.preferences.bnw.w.circle.064.png)
-![032](https://github.com/cyko-hub/icons/blob/7e1a426ba64c84a8b9a7dda6f4c9f10ddebcef67/web/cyko.preferences.bnw.w.circle.032.png)\
-![256](https://github.com/cyko-hub/icons/blob/050f133a02628c10f013d34903014b1623021a9a/web/cyko.app.nook-ball.256.webp)
-![128](https://github.com/cyko-hub/icons/blob/050f133a02628c10f013d34903014b1623021a9a/web/cyko.app.nook-ball.128.webp)
-![064](https://github.com/cyko-hub/icons/blob/050f133a02628c10f013d34903014b1623021a9a/web/cyko.app.nook-ball.64.webp)
-![032](https://github.com/cyko-hub/icons/blob/050f133a02628c10f013d34903014b1623021a9a/web/cyko.app.nook-ball.32.webp)\
-![256](https://github.com/cyko-hub/icons/blob/e3f3d8c255636e5caaae489a9a8430d5d2be999c/web/cyko.preferences.bnw.w.rect.256.png)
-![128](https://github.com/cyko-hub/icons/blob/e3f3d8c255636e5caaae489a9a8430d5d2be999c/web/cyko.preferences.bnw.w.rect.128.png)
-![064](https://github.com/cyko-hub/icons/blob/e3f3d8c255636e5caaae489a9a8430d5d2be999c/web/cyko.preferences.bnw.w.rect.064.png)
-![032](https://github.com/cyko-hub/icons/blob/7e1a426ba64c84a8b9a7dda6f4c9f10ddebcef67/web/cyko.preferences.bnw.w.rect.032.png)\
-![256](https://github.com/cyko-hub/icons/blob/e3f3d8c255636e5caaae489a9a8430d5d2be999c/web/cyko.preferences.bnw.b.rect.256.png)
-![128](https://github.com/cyko-hub/icons/blob/e3f3d8c255636e5caaae489a9a8430d5d2be999c/web/cyko.preferences.bnw.b.rect.128.png)
-![064](https://github.com/cyko-hub/icons/blob/e3f3d8c255636e5caaae489a9a8430d5d2be999c/web/cyko.preferences.bnw.b.rect.064.png)
-![032](https://github.com/cyko-hub/icons/blob/7e1a426ba64c84a8b9a7dda6f4c9f10ddebcef67/web/cyko.preferences.bnw.b.rect.032.png)
+![256](https://github.com/cyko-hub/icons/blob/7129efe05a65f13344361c404849128746bdf6d3/web/cyko.preferences.bnw.b.256.webp)
+![128](https://github.com/cyko-hub/icons/blob/7129efe05a65f13344361c404849128746bdf6d3/web/cyko.preferences.bnw.b.128.webp)
+![064](https://github.com/cyko-hub/icons/blob/7129efe05a65f13344361c404849128746bdf6d3/web/cyko.preferences.bnw.b.64.webp)
+![032](https://github.com/cyko-hub/icons/blob/7129efe05a65f13344361c404849128746bdf6d3/web/cyko.preferences.bnw.b.32.webp)\
+![256](https://github.com/cyko-hub/icons/blob/7129efe05a65f13344361c404849128746bdf6d3/web/cyko.preferences.bnw.w.256.webp)
+![128](https://github.com/cyko-hub/icons/blob/7129efe05a65f13344361c404849128746bdf6d3/web/cyko.preferences.bnw.w.128.webp)
+![064](https://github.com/cyko-hub/icons/blob/7129efe05a65f13344361c404849128746bdf6d3/web/cyko.preferences.bnw.w.64.webp)
+![032](https://github.com/cyko-hub/icons/blob/7129efe05a65f13344361c404849128746bdf6d3/web/cyko.preferences.bnw.w.32.webp)\
+![256](https://github.com/cyko-hub/icons/blob/7129efe05a65f13344361c404849128746bdf6d3/web/cyko.app.nook.256.webp)
+![128](https://github.com/cyko-hub/icons/blob/7129efe05a65f13344361c404849128746bdf6d3/web/cyko.app.nook.128.webp)
+![064](https://github.com/cyko-hub/icons/blob/7129efe05a65f13344361c404849128746bdf6d3/web/cyko.app.nook.64.webp)
+![032](https://github.com/cyko-hub/icons/blob/7129efe05a65f13344361c404849128746bdf6d3/web/cyko.app.nook.32.webp)\
+![256](https://github.com/cyko-hub/icons/blob/0b2ad1253f016246803a6e28c408825a0c3d23f6/web/cyko.preferences.bnw.w.alt.256.webp)
+![128](https://github.com/cyko-hub/icons/blob/0b2ad1253f016246803a6e28c408825a0c3d23f6/web/cyko.preferences.bnw.w.alt.128.webp)
+![064](https://github.com/cyko-hub/icons/blob/0b2ad1253f016246803a6e28c408825a0c3d23f6/web/cyko.preferences.bnw.w.alt.64.webp)
+![032](https://github.com/cyko-hub/icons/blob/0b2ad1253f016246803a6e28c408825a0c3d23f6/web/cyko.preferences.bnw.w.alt.32.webp)\
+![256](https://github.com/cyko-hub/icons/blob/7129efe05a65f13344361c404849128746bdf6d3/web/cyko.preferences.bnw.b.alt.256.webp)
+![128](https://github.com/cyko-hub/icons/blob/7129efe05a65f13344361c404849128746bdf6d3/web/cyko.preferences.bnw.b.alt.128.webp)
+![064](https://github.com/cyko-hub/icons/blob/7129efe05a65f13344361c404849128746bdf6d3/web/cyko.preferences.bnw.b.alt.64.webp)
+![032](https://github.com/cyko-hub/icons/blob/7129efe05a65f13344361c404849128746bdf6d3/web/cyko.preferences.bnw.b.alt.32.webp)
 
 ### SVG
 
@@ -61,9 +61,9 @@ Generic *preferences* and the **Nook** calendar app.\
 512 x 512
 ```
 
-![SVG](https://github.com/cyko-hub/icons/blob/e3f3d8c255636e5caaae489a9a8430d5d2be999c/web/cyko.preferences.bnw.b.circle.svg)
-![SVG](https://github.com/cyko-hub/icons/blob/050f133a02628c10f013d34903014b1623021a9a/svg/512/apps/cyko.app.nook.svg)
-![SVG](https://github.com/cyko-hub/icons/blob/e3f3d8c255636e5caaae489a9a8430d5d2be999c/web/cyko.preferences.bnw.w.rect.svg)
+![SVG](https://github.com/cyko-hub/icons/blob/0b2ad1253f016246803a6e28c408825a0c3d23f6/svg/512/general/cyko.preferences.bnw.b.svg)
+![SVG](https://github.com/cyko-hub/icons/blob/0b2ad1253f016246803a6e28c408825a0c3d23f6/svg/512/apps/cyko.app.nook.svg)
+![SVG](https://github.com/cyko-hub/icons/blob/0b2ad1253f016246803a6e28c408825a0c3d23f6/svg/512/general/cyko.preferences.bnw.w.alt.svg)
 
 ## UPDATED
 
